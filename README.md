@@ -2,7 +2,7 @@
 Three types of Protein Sequence Alignment methods are implemented in this project:
 * [Global Sequence Alignment](https://en.wikipedia.org/wiki/Sequence_alignment#Global_and_local_alignments)
 * [Local Sequence Alignment](https://en.wikipedia.org/wiki/Sequence_alignment#Global_and_local_alignments)
-* [Dove-Tail Sequence Alignment (End Space Free)](http://www.cs.tau.ac.il/~rshamir/algmb/98/scribe/html/lec02/node16.html)
+* [Dove-Tail Sequence (End Space Free) Alignment](http://www.cs.tau.ac.il/~rshamir/algmb/98/scribe/html/lec02/node16.html)
 ## Description
 The code takes in a protein sequence in Fasta format as query along with a number k, aligns it with the sequences in the database and displays the top k alignments over all query/database sequence pairs along with the matching score.
 ## Usage
